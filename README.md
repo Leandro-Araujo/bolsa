@@ -1,4 +1,4 @@
-###BOLSA DE VALORES
+##BOLSA DE VALORES
 
 A Bolsa de valores é um ambiente que tem a utilidade básica de negociar e custodiar valores mobiliarios. Nos textos abaixo será
 criada uma documentação para implementação de softare baseadas nas regras do mercado brasileiro de valores mobiliarios.
@@ -10,12 +10,12 @@ Segue abaixo os principais responsabilidades da bolsas:
 
 3. Fazer as cobranças dos seus emolumentos.
 
-###IPO
+##IPO
 
 O IPO é o oferta pública inicial da empresa, é quando uma empresa lança pela primeira vez suas ações no mercado primário, todo 
 o valor que sobrar entre o que foi cobrado pelas ações e os custos irão para a empresa que fez o IPO.
 
-###Mercado secundário
+##Mercado secundário
 
 É no mercado secundário em que se compra e vende ações que já passaram pelo IPO, aqui uma pessoa pode comprar as ações de 
 outras pessoas.
